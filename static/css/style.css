@@ -1,6 +1,10 @@
 @import url('https://rsms.me/inter/inter.css');
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@3/distr/fira_code.css);
+:root {
 
+     color-scheme: dark only;
+
+}
 div.hot-links {
   float: right;
   padding: 0.3rem 0rem;
