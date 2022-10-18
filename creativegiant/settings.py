@@ -29,7 +29,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     '127.0.0.1:8000',
-    'creativegiant.herokuapp.com'
+    'creativegiant.herokuapp.com',
+    'https://creativegiant-glmps20av-ayush170-future.vercel.app/'
 ]
 
 # Application definition
