@@ -33,7 +33,7 @@ ALLOWED_HOSTS = [
     'https://creativegiant-glmps20av-ayush170-future.vercel.app/',
     '.vercel.app',
     '.now.sh',
-    'web-production-74b4.up.railway.app',
+    'https://web-production-74b4.up.railway.app/',
 ]
 
 # Application definition
