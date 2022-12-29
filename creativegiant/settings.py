@@ -33,6 +33,7 @@ ALLOWED_HOSTS = [
     'https://creativegiant-glmps20av-ayush170-future.vercel.app/',
     '.vercel.app',
     '.now.sh',
+    'web-production-74b4.up.railway.app',
 ]
 
 # Application definition
@@ -44,8 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'main',
-    'web-production-74b4.up.railway.app',
+    'main'
 ]
 
 MIDDLEWARE = [
