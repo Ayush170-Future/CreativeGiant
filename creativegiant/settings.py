@@ -26,15 +26,7 @@ SECRET_KEY = 'django-insecure-a=e3llyh-=xm@lq3uopw94#8m@ugwlck%pchk_6ccf&x%v5z-f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '127.0.0.1',
-    '127.0.0.1:8000',
-    'creativegiant.herokuapp.com',
-    'https://creativegiant-glmps20av-ayush170-future.vercel.app/',
-    '.vercel.app',
-    '.now.sh',
-    'https://web-production-74b4.up.railway.app/',
-]
+ALLOWED_HOSTS = [*]
 
 # Application definition
 
